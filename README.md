@@ -32,8 +32,7 @@ Este proyecto en **Node.js** permite crear una lista de compras desde la **termi
 2. Abre la **terminal** en la carpeta del proyecto.  
 3. Ejecuta el programa:
 
-```bash
-node lista-compras.js
+
 Autor
 
 Natalia Díaz
